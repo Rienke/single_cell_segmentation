@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 import random
 import copy
-from . import data_augment
+import data_augment
 import threading
 import itertools
 #---------------note by wwk   single channel images so line 316-321 are commented   line40 img_min_side=640 line308 img need resize
