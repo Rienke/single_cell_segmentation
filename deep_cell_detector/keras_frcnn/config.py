@@ -7,7 +7,7 @@ class Config:
 
 		self.verbose = True
 
-		self.network = vgg
+		self.network = 'vgg'
 
 		# setting for data augmentation
 		self.use_horizontal_flips = True
